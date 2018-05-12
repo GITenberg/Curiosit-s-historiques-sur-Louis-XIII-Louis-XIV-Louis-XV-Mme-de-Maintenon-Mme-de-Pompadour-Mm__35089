@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37452'
     url: http://www.gutenberg.org/2009/agents/37452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35089#Curiosit-s-historiques-sur-Louis-XIII-Louis-XIV-Louis-XV-Mme-de-Maintenon-Mme-de-Pompadour-Mm_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-01-27'
 gutenberg_type: Text
